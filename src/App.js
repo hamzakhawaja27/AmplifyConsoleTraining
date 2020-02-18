@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hello from Pull request preview
+          Hello from Pull Request zakhawa
         </a>
       </header>
     </div>
